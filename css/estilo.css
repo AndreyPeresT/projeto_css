@@ -1,0 +1,62 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+    background-image: url(../img/fundo.png);  
+}
+
+.fundo {
+    max-width: 1000px;
+    
+}
+
+.capa {
+    width: 100%;
+    
+}
+
+.menu {
+    background-color:  rgb(133, 125, 114);
+    padding: 0px;
+}
+
+.form_menu {
+    margin: 0%;
+    list-style: none;
+    display: flex;
+    padding: 50px 0px 50px 15px;
+}
+
+.form_link {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 10px 0px 10px;
+    color: rgb(57, 57, 90);
+}
+
+.conteudo {
+    margin-top: 0px;
+    padding: 20px;
+    background-color: rgb(245, 239, 224);
+}
+
+.titulo{
+    color: rgb(133, 125, 114);;
+}
+
+.rodape{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.foto{
+    padding: 10px;
+    background-color: rgb(133, 125, 114);
+    max-width: 100%;
+}
+
+.info {
+    font-weight: bold;
+}
